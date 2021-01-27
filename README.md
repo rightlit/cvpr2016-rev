@@ -1,8 +1,8 @@
 **Learning Deep Representations of Fine-grained Visual Descriptions**
 
-Scott Reed, Zeynep Akata, Honglak Lee, Bernt Schiele
+This is cvpr2016 revised version for Google Colab.
 
-<img src="images/description_embedding.jpg" width="500px" height="250px"/>
+Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016) for original source version.
 
 **How to train a char-CNN-RNN model:**
 
