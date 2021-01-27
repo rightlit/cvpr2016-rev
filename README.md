@@ -4,6 +4,8 @@ This is cvpr2016 revised version for Google Colab.
 
 Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016) for original source version.
 
+Refer to troubleshooting [issues](https://github.com/rightlit/cvpr2016-rev/issues) while running with original source 
+
 **How to train a char-CNN-RNN model:**
 
 1. Download the [birds](https://drive.google.com/open?id=0B0ywwgffWnLLZW9uVHNjb2JmNlE)
