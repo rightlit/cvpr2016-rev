@@ -19,7 +19,8 @@ Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr
 
  data             | model             | classification             |  retrival
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-CUB  |  DS-SJE | Average top-1 val/test accuracy: 0.5469 | mAP@50: 0.4552
+CUB  |  DS-SJE char-cnn-rnn | Average top-1 val/test accuracy: 0.5469 | mAP@50: 0.4552
+flowers  |  DS-SJE char-cnn-rnn | Average top-1 val/test accuracy: 0.6372 | mAP@50: 0.5730
 
 
 **Pretrained models:**
