@@ -154,8 +154,8 @@ local res = retrieval_at_k(txt_dir, img_dir, testcls, kvals, torch.dot, 1)
 --print(string.format('mAP@10: %6.4f\n', res[10]))
 print(string.format('mAP@50: %6.4f\n', res[50]))
 
---file = io.open(opt.outfile, "w")
---io.output(file)
+file = io.open(opt.outfile, "w")
+io.output(file)
 io.write(string.format('%.4f,%.4f,%.4f,%.4f\n',
                        res[1],
                        res[5],
