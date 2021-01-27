@@ -8,6 +8,6 @@ th train_sje_hybrid.lua \
   -max_epochs 200 \
   -savefile sje_cub_c10_hybrid \
   -num_caption 10 \
-  -gpuid 3 \
+  -gpuid 0 \
   -print_every 10
 
