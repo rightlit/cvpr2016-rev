@@ -17,9 +17,9 @@ Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr
 2. Modify the eval bash script (e.g. `eval_cub_cls.sh` for birds) to point to your saved checkpoint.
 3. Run the eval script: `./eval_cub_cls.sh`
 
- model             | classification             |  retrival
-:-------------------------:|:-------------------------:|:-------------------------:
-CUB (DS-SJE) |  Average top-1 val/test accuracy: 0.5469 | mAP@50: 0.4552
+ data             | model             | classification             |  retrival
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+CUB  |  DS-SJE | Average top-1 val/test accuracy: 0.5469 | mAP@50: 0.4552
 
 
 **Pretrained models:**
