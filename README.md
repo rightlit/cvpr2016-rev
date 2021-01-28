@@ -6,6 +6,14 @@ Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr
 
 Refer to troubleshooting [issues](https://github.com/rightlit/cvpr2016-rev/issues) while running with original source 
 
+**Dependencies**
+
+python == 3.6
+
+Pytorch 1.7.0+cu101
+
+Torch7 (http://torch.ch/docs/getting-started.html#_)
+
 **How to train a char-CNN-RNN model:**
 
 1. Download the [birds](https://drive.google.com/open?id=0B0ywwgffWnLLZW9uVHNjb2JmNlE)
