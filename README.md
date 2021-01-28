@@ -10,9 +10,12 @@ Refer to troubleshooting [issues](https://github.com/rightlit/cvpr2016-rev/issue
 
 python == 3.6
 
-Pytorch 1.7.0+cu101
+pytorch == 1.2.0
 
 Torch7 (http://torch.ch/docs/getting-started.html#_)
+
+In addition, please add the project folder to PYTHONPATH and `pip install` the following packages:
+- `torchfile == 0.4.0` 
 
 **How to train a char-CNN-RNN model:**
 
