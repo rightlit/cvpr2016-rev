@@ -1,4 +1,4 @@
-# Learning Deep Representations of Fine-grained Visual Descriptions
+# cvpr2016 revision for Colab
 
 This is cvpr2016 revised version for Google Colab.
 
