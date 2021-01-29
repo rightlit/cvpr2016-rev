@@ -4,7 +4,7 @@ This is cvpr2016 revised version for Google Colab.
 
 Refer to [https://github.com/reedscot/cvpr2016](https://github.com/reedscot/cvpr2016) for original source version.
 
-This is implementation for the paper [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks ](http://arxiv.org/abs/1605.05395).
+This is implementation for the paper [Learning Deep Representations of Fine-grained Visual Descriptions](http://arxiv.org/abs/1605.05395).
 
 Refer to troubleshooting [issues](https://github.com/rightlit/cvpr2016-rev/issues) while running with original source 
 
