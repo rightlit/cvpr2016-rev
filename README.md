@@ -37,9 +37,3 @@ CUB  |  DS-SJE char-cnn-rnn | Average top-1 val/test accuracy: 0.5469 | mAP@50: 
 flowers  |  DS-SJE char-cnn-rnn | Average top-1 val/test accuracy: 0.6372 | mAP@50: 0.5730
 
 
-**Pretrained models:**
-
-* [Char-CNN-RNN for birds](https://drive.google.com/open?id=0B0ywwgffWnLLYUNVWVV5Sm1xcWc)
-* [Char-CNN-RNN for flowers](https://drive.google.com/open?id=0B0ywwgffWnLLV205RXF4Y2hFY1E)
-
-
