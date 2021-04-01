@@ -1,4 +1,4 @@
-# cvpr2016 revision for Colab
+# cvpr2016 revision and demos
 
 This is cvpr2016 revised version for Google Colab.
 
